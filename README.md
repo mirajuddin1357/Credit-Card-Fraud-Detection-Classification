@@ -110,7 +110,8 @@
 7. **Optuna:** Hyperparameter optimization.  
 8. **Jupyter Notebook / VS Code:** Development environment.  
 9. **Git & GitHub:** Version control and collaboration.
-10. **Streamlit:** Web app development.
+10. **LFS:** Large File Storage for storing large files (e.g., `creditcard.csv`) to upload on GitHub through Git.
+11. **Streamlit:** Web app development.
 
 ---
 
@@ -177,7 +178,7 @@
 
 ---
 
-Live Streamlit App: [Credit Card Fraud Detection](https://credit-card-fraud-detection-app-2026.streamlit.app/)
+Live Streamlit App: [Credit Card Fraud Detection](https://credit-card-fraud-detection-classification.streamlit.app/)
 **Built by Miraj Ud Din** | [Portfolio](https://miraj-portfolio-db-2026.web.app/)
   
 ---
