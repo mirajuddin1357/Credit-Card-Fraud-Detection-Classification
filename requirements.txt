@@ -1,0 +1,15 @@
+# Requirements for Streamlit app
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+lightgbm
+catboost
+optuna
+imbalanced-learn
+shap
+streamlit
+pickle5
